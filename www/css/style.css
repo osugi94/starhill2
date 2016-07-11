@@ -30,13 +30,13 @@
 
 .title{
     text-align: center;
-    color: #ffff9f;
+    color: #F5F130;
     font-size: 45px;
     font-family: Myriad;
 }
 .sub{
     text-align: center;
-    color: #ffff9f;
+    color: #F5F130;
     font-size: 15px;
     font-family: Myriad;
 }
@@ -48,12 +48,12 @@
 
 .info_title{
     height: 25px;
-    border: 1px solid black;
+    border: 1px solid #343D55;
     border-radius: 20px;
     text-align: center;
-    background-color: rgba(127,209,241,0.3);
+    background-color: rgba(52,61,85,1.0);
     margin: 5px 5px 5px 5px;
-    color: #ffff9f;
+    color: white;
 }
 
 .info_update{
@@ -66,12 +66,12 @@
 
 .contents_title{
     height: 25px;
-    border: 1px solid black;
+    border: 1px solid #343D55;
     border-radius: 20px;
     text-align: center;
-    background-color: rgba(17,74,159,0.3);
+    background-color: rgba(52,61,85,1.0);
     margin: 0 5px;
-    color: #ffff9f;
+    color: white;
 }
 
 .contents ons-button{
