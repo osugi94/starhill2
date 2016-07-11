@@ -48,12 +48,12 @@
 
 .info_title{
     height: 25px;
-    border: 1px solid #343D55;
+    border: 1px solid white;
     border-radius: 20px;
     text-align: center;
-    background-color: rgba(52,61,85,1.0);
+    background-color: white;
     margin: 5px 5px 5px 5px;
-    color: white;
+    color: #27477A;
 }
 
 .info_update{
@@ -66,12 +66,12 @@
 
 .contents_title{
     height: 25px;
-    border: 1px solid #343D55;
+    border: 1px solid white;
     border-radius: 20px;
     text-align: center;
-    background-color: rgba(52,61,85,1.0);
+    background-color: white;
     margin: 0 5px;
-    color: white;
+    color: #27477A;
 }
 
 .contents ons-button{
